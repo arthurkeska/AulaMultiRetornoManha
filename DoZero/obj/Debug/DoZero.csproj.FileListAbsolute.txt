@@ -1,0 +1,6 @@
+C:\Users\arthur.keska\source\repos\DoZero\obj\Debug\DoZero.csprojAssemblyReference.cache
+C:\Users\arthur.keska\source\repos\DoZero\obj\Debug\DoZero.exec03.resources
+C:\Users\arthur.keska\source\repos\DoZero\obj\Debug\DoZero.Form1.resources
+C:\Users\arthur.keska\source\repos\DoZero\obj\Debug\DoZero.Properties.Resources.resources
+C:\Users\arthur.keska\source\repos\DoZero\obj\Debug\DoZero.csproj.GenerateResource.cache
+C:\Users\arthur.keska\source\repos\DoZero\obj\Debug\DoZero.csproj.CoreCompileInputs.cache
